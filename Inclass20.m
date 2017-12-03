@@ -1,4 +1,11 @@
 %Inclass 20
+%GB comments
+1 100
+2 100
+3 100
+4. 100
+Overall 100
+
 
 %In this folder you will find a .mat file with x and y data
 
